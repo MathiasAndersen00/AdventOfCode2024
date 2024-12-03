@@ -21,8 +21,7 @@ namespace AdventOfCode2024.Day1
         {
             var (list1, list2) = PrepareLists("Resources/day1_input.txt");
 
-            int total = list1
-                .Sum(value => findOccurrences(value, list2) * value); 
+            int total = list1.Sum(value => findOccurrences(value, list2) * value); 
 
             LogResult("Total occurrences", total);
         }

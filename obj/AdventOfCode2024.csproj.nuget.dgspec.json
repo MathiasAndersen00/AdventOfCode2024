@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\VisualStudioCode\\AdventOfCode2024\\AdventOfCode2024\\AdventOfCode2024.csproj": {}
+    "C:\\VisualStudioCode\\AdventOfCode2024\\AdventOfCode2024\\AdventOfCode2024.csproj": {}
   },
   "projects": {
-    "c:\\VisualStudioCode\\AdventOfCode2024\\AdventOfCode2024\\AdventOfCode2024.csproj": {
+    "C:\\VisualStudioCode\\AdventOfCode2024\\AdventOfCode2024\\AdventOfCode2024.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\VisualStudioCode\\AdventOfCode2024\\AdventOfCode2024\\AdventOfCode2024.csproj",
+        "projectUniqueName": "C:\\VisualStudioCode\\AdventOfCode2024\\AdventOfCode2024\\AdventOfCode2024.csproj",
         "projectName": "AdventOfCode2024",
-        "projectPath": "c:\\VisualStudioCode\\AdventOfCode2024\\AdventOfCode2024\\AdventOfCode2024.csproj",
+        "projectPath": "C:\\VisualStudioCode\\AdventOfCode2024\\AdventOfCode2024\\AdventOfCode2024.csproj",
         "packagesPath": "C:\\Users\\Mathias\\.nuget\\packages\\",
-        "outputPath": "c:\\VisualStudioCode\\AdventOfCode2024\\AdventOfCode2024\\obj\\",
+        "outputPath": "C:\\VisualStudioCode\\AdventOfCode2024\\AdventOfCode2024\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
