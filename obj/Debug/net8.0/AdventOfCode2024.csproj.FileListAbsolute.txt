@@ -31,3 +31,5 @@ c:\Users\Mathias Andersen\OneDrive - Greenwave Terminal Systems AS\Dokumenter\Vi
 c:\Users\Mathias Andersen\OneDrive - Greenwave Terminal Systems AS\Dokumenter\Visual Studio 2022\AdventOfCode2024\AdventOfCode2024\obj\Debug\net8.0\AdventOfCode2024.pdb
 c:\Users\Mathias Andersen\OneDrive - Greenwave Terminal Systems AS\Dokumenter\Visual Studio 2022\AdventOfCode2024\AdventOfCode2024\obj\Debug\net8.0\AdventOfCode2024.genruntimeconfig.cache
 c:\Users\Mathias Andersen\OneDrive - Greenwave Terminal Systems AS\Dokumenter\Visual Studio 2022\AdventOfCode2024\AdventOfCode2024\obj\Debug\net8.0\ref\AdventOfCode2024.dll
+c:\VisualStudioCode\AdventOfCode2024\AdventOfCode2024\bin\Debug\net8.0\Resources\day3_input.txt
+c:\VisualStudioCode\AdventOfCode2024\AdventOfCode2024\obj\Debug\net8.0\AdventOfCode2024.sourcelink.json
